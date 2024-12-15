@@ -77,6 +77,19 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "forager-pcb.kicad_pcb",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 15,
+          "pos_y": 15,
+          "size_x": 2538,
+          "size_y": 2077
+        }
+      }
+    ]
   }
 }
