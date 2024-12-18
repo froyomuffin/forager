@@ -1,4 +1,4 @@
-144338694778676
+140870243642627
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -544,20 +544,6 @@ Kailh "Choc" PG1350 keyswitch with optional socket mount
 kailh,choc
 0
 4
-2
-TOTEMlib
-Kailh_socket_PG1353_no_socket
-Kailh "Choc" PG1353 keyswitch with no socket mount
-kailh,choc,v2
-0
-4
-2
-TOTEMlib
-Kailh_socket_PG1353_no_socket_kailh
-Kailh "Choc" PG1353 keyswitch with no socket mount and only for kailh
-kailh,choc,v2
-0
-2
 2
 TOTEMlib
 Kailh_socket_PG1353_optional
