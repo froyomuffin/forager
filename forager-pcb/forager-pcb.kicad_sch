@@ -1715,6 +1715,16 @@
 	)
 	(wire
 		(pts
+			(xy 20.32 34.29) (xy 27.94 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "366971f5-083f-4b96-9023-c67b28772f86")
+	)
+	(wire
+		(pts
 			(xy 29.21 67.31) (xy 29.21 87.63)
 		)
 		(stroke
@@ -2082,6 +2092,16 @@
 			(type default)
 		)
 		(uuid "7cd2c5d1-4906-4987-8e81-7dcf2c66a9ad")
+	)
+	(wire
+		(pts
+			(xy 156.21 34.29) (xy 163.83 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7dfc85bc-968a-4d44-976d-d13678910fe8")
 	)
 	(wire
 		(pts
@@ -2664,7 +2684,7 @@
 		)
 		(uuid "0ae2eba6-1ab2-448e-a871-23023002e24e")
 	)
-	(label "RCOL2"
+	(label "RCOL3"
 		(at 212.09 58.42 180)
 		(fields_autoplaced yes)
 		(effects
@@ -2675,7 +2695,7 @@
 		)
 		(uuid "0e4bce8d-2730-4f7f-abeb-0a05ad5ba80f")
 	)
-	(label "LCOL4"
+	(label "LCOL5"
 		(at 96.52 59.69 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2697,7 +2717,7 @@
 		)
 		(uuid "1de579cf-4a86-40be-84e3-6e608724b7dc")
 	)
-	(label "RCOL4"
+	(label "RCOL5"
 		(at 205.74 31.75 180)
 		(fields_autoplaced yes)
 		(effects
@@ -2730,7 +2750,7 @@
 		)
 		(uuid "265d5034-c26f-48f5-8dc5-1ed900cba5f9")
 	)
-	(label "RCOL3"
+	(label "RCOL4"
 		(at 205.74 29.21 180)
 		(fields_autoplaced yes)
 		(effects
@@ -2796,7 +2816,7 @@
 		)
 		(uuid "5830fe65-37f7-4a12-a38a-492ff8af117c")
 	)
-	(label "RCOL1"
+	(label "RCOL2"
 		(at 224.79 58.42 180)
 		(fields_autoplaced yes)
 		(effects
@@ -2818,7 +2838,7 @@
 		)
 		(uuid "67ea9c98-c50b-4318-bda1-ed908d5024a6")
 	)
-	(label "LCOL2"
+	(label "LCOL3"
 		(at 71.12 59.69 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2917,7 +2937,7 @@
 		)
 		(uuid "95d3da74-0472-4e93-bf41-a2629bef4bcd")
 	)
-	(label "RCOL0"
+	(label "RCOL1"
 		(at 238.76 58.42 180)
 		(fields_autoplaced yes)
 		(effects
@@ -2972,7 +2992,7 @@
 		)
 		(uuid "af513fc5-aae1-4818-83bc-3d58b7f4cd07")
 	)
-	(label "LCOL0"
+	(label "LCOL1"
 		(at 44.45 59.69 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2994,7 +3014,18 @@
 		)
 		(uuid "c06fc609-41e8-48d9-b984-d87675d85c53")
 	)
-	(label "LCOL3"
+	(label "LCOL5"
+		(at 20.32 34.29 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c214339e-3bbc-4baf-980e-93bd802bbf64")
+	)
+	(label "LCOL4"
 		(at 83.82 59.69 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3005,7 +3036,7 @@
 		)
 		(uuid "cccc3819-c424-4e1d-be7b-18806b85a2f6")
 	)
-	(label "RCOL4"
+	(label "RCOL5"
 		(at 186.69 58.42 180)
 		(fields_autoplaced yes)
 		(effects
@@ -3015,6 +3046,17 @@
 			(justify right bottom)
 		)
 		(uuid "d4ddc6e1-332e-4b2c-808d-6ecd89bdcbcf")
+	)
+	(label "RCOL3"
+		(at 156.21 34.29 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d9339120-07cd-4812-8d26-bfe0f5c8378a")
 	)
 	(label "LCOL0"
 		(at 29.21 59.69 0)
@@ -3038,7 +3080,7 @@
 		)
 		(uuid "e6bcbf96-aa14-4772-9d7d-27e4ba275ec5")
 	)
-	(label "LCOL1"
+	(label "LCOL2"
 		(at 58.42 59.69 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3049,7 +3091,7 @@
 		)
 		(uuid "eac86f41-561c-4674-ab6d-6dd9a7010332")
 	)
-	(label "RCOL3"
+	(label "RCOL4"
 		(at 199.39 58.42 180)
 		(fields_autoplaced yes)
 		(effects
