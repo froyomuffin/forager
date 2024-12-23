@@ -1,0 +1,348 @@
+(footprint "Choc_v2_PG1353_socket"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Kailh \"Choc\" PG1353 keyswitch with optional socket mount")
+	(tags "kailh,choc,v2")
+	(property "Reference" "SWL16"
+		(at 0 -8.255 0)
+		(layer "Dwgs.User")
+		(hide yes)
+		(uuid "0d12f4d0-0349-4fc5-9ca2-0b1f96c0dcea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_Push_45deg"
+		(at 0 8.25 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "5fc215db-3acd-4e2a-96f2-63aab8d99b3f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Footprint" "TOTEMlib:Kailh_socket_PG1353_optional"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "64073f73-4cc9-4b5c-969a-69900720ff3a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "ee98ebb0-f6b6-4b98-ab4a-da2fa87299c8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "548d818e-9ffb-47fe-9d47-1be24685d6be")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -7 -7)
+		(end -7 -6)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "62ae93ce-dd29-452f-a23d-7e877c6a400d")
+	)
+	(fp_line
+		(start -7 -7)
+		(end -6 -7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "eb836c52-9b01-427c-b11b-77abdb867d93")
+	)
+	(fp_line
+		(start -7 6)
+		(end -7 7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "a6012fbf-b7dc-42bf-bd77-de687f8ae952")
+	)
+	(fp_line
+		(start -6 7)
+		(end -7 7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "6e2e3a39-9be5-4e5f-83e6-f430717bd8fb")
+	)
+	(fp_line
+		(start 6 -7)
+		(end 7 -7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "c6631504-5d61-417c-a5be-597f21e4f53c")
+	)
+	(fp_line
+		(start 7 -6)
+		(end 7 -7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "7ffb84b3-5fbb-4443-98e0-05f3a736a2ee")
+	)
+	(fp_line
+		(start 7 7)
+		(end 6 7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "2de6cf28-3e39-446a-8e2b-9a582affadfe")
+	)
+	(fp_line
+		(start 7 7)
+		(end 7 6)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "c2c65bfe-9460-4809-a6fe-94463755eb45")
+	)
+	(fp_line
+		(start -9 -8.5)
+		(end -9 8.5)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "28d65462-a95c-430b-bce5-059af0378eeb")
+	)
+	(fp_line
+		(start -9 8.5)
+		(end 9 8.5)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "80cbe03a-a7b3-47e7-9cb0-20e7a24eb399")
+	)
+	(fp_line
+		(start 9 -8.5)
+		(end -9 -8.5)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "a42e26b7-ed5c-47f9-9a4b-aba00100069e")
+	)
+	(fp_line
+		(start 9 8.5)
+		(end 9 -8.5)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "d2d304cb-1ddd-427d-9517-c0ab221f195c")
+	)
+	(fp_line
+		(start -6.9 -6.9)
+		(end -6.9 6.9)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "071c14e5-fc69-48d6-a91d-3880896cc653")
+	)
+	(fp_line
+		(start -6.9 -6.9)
+		(end 6.9 -6.9)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "e0fd0464-716d-4e5b-87ec-6992d92be165")
+	)
+	(fp_line
+		(start 6.9 6.9)
+		(end -6.9 6.9)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "0d0d9748-9603-4ca5-aca4-a41b9e6601ca")
+	)
+	(fp_line
+		(start 6.9 6.9)
+		(end 6.9 -6.9)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "79d63d61-1416-4294-92e5-37bc1de5c0c2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -4.445 -7.62 0)
+		(layer "Dwgs.User")
+		(hide yes)
+		(uuid "9a560343-8ce8-48b4-85d0-12732f730537")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "dc3be77a-1186-4dc1-945d-621f937a0440")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(fp_text user "${VALUE}"
+		(at -2.54 -0.635 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6caa4398-ac33-4cae-a504-8d9f888bd700")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at -3 -5 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a6499e6f-038f-43fa-a502-99b68db0e34b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -5.5 0)
+		(size 1.7018 1.7018)
+		(drill 1.7018)
+		(layers "*.Cu" "*.Mask")
+		(uuid "8078f3bd-d783-473e-8f9e-de42032d7a99")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 5.029 5.029)
+		(drill 5.029)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "131c4398-a2ef-443c-accc-cb8c53a51d97")
+	)
+	(pad "" np_thru_hole circle
+		(at 5.5 0)
+		(size 1.7018 1.7018)
+		(drill 1.7018)
+		(layers "*.Cu" "*.Mask")
+		(uuid "61776c4b-ec9b-4f35-beb9-927691db0d04")
+	)
+	(pad "1" thru_hole circle
+		(at 0 5.9)
+		(size 2.212 2.212)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ebb7143b-5b85-4276-b703-7b1b3db21b96")
+	)
+	(pad "2" thru_hole circle
+		(at 5 3.8)
+		(size 2.212 2.212)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5f543270-b96f-484e-9541-6f1234e82488")
+	)
+	(group ""
+		(uuid "0b2dba46-bf18-465a-ba32-69e4f9d4924f")
+		(members "28d65462-a95c-430b-bce5-059af0378eeb" "80cbe03a-a7b3-47e7-9cb0-20e7a24eb399"
+			"a42e26b7-ed5c-47f9-9a4b-aba00100069e" "d2d304cb-1ddd-427d-9517-c0ab221f195c"
+		)
+	)
+	(model "${KIPRJMOD}/TOTEM3D/Kailh_switch_PG1350_optional.step"
+		(offset
+			(xyz 0 0 2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -180)
+		)
+	)
+	(model "${KIPRJMOD}/TOTEM3D/Kailh_socket_PG1350_optional.STEP"
+		(offset
+			(xyz 10 5.95 -1.8)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

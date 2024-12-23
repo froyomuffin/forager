@@ -1,4 +1,4 @@
-24986010870840434
+24991215722855717
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54970,6 +54970,27 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+Custom
+Choc_v2_PG1353_socket
+Kailh "Choc" PG1353 keyswitch with optional socket mount
+kailh,choc,v2
+0
+2
+2
+Custom
+D_SOD-123-AltSilk
+SOD-123
+SOD-123
+0
+2
+2
+Custom
+Kailh_socket_PG1353_optional
+Kailh "Choc" PG1353 keyswitch with optional socket mount
+kailh,choc,v2
+0
+4
+2
 Custom
 SW_choc_v1_HS_MBK
 Hotswap footprint for Kailh Choc style switches
