@@ -1,4 +1,4 @@
-24984275952658404
+24986010870840434
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54972,6 +54972,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 3
 Custom
 SW_choc_v1_HS_MBK
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+Custom
+SW_choc_v1v2_HS_MBK
 Hotswap footprint for Kailh Choc style switches
 
 0
