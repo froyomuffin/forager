@@ -7658,169 +7658,183 @@
 			(layer "Edge.Cuts")
 			(uuid "c1c01a24-dbc6-4588-b066-ffd8ca2f65c8")
 		)
-		(pad "1" smd oval
+		(pad "1" thru_hole oval
 			(at -7.62 7.62 270)
 			(size 2.75 1.8)
-			(drill
+			(drill 1
 				(offset -0.475 0)
 			)
-			(layers "B.Cu" "B.Mask" "B.Paste")
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net 3 "/LCOL0")
 			(pinfunction "P0.02/0")
 			(pintype "bidirectional")
 			(uuid "3e671eb1-0965-4cdb-9da6-2a4f9e3b5d8f")
 		)
-		(pad "2" smd oval
+		(pad "2" thru_hole oval
 			(at -7.62 5.08 270)
 			(size 2.75 1.8)
-			(drill
+			(drill 1
 				(offset -0.475 0)
 			)
-			(layers "B.Cu" "B.Mask" "B.Paste")
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net 5 "/LCOL1")
 			(pinfunction "P0.03/1")
 			(pintype "bidirectional")
 			(uuid "76bc61fd-311c-4cc1-9b42-a3a5681be9f3")
 		)
-		(pad "3" smd oval
+		(pad "3" thru_hole oval
 			(at -7.62 2.54 270)
 			(size 2.75 1.8)
-			(drill
+			(drill 1
 				(offset -0.475 0)
 			)
-			(layers "B.Cu" "B.Mask" "B.Paste")
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net 7 "/LCOL2")
 			(pinfunction "P0.28/2")
 			(pintype "bidirectional")
 			(uuid "0359077c-c177-4078-ab33-66ebf45bce26")
 		)
-		(pad "4" smd oval
+		(pad "4" thru_hole oval
 			(at -7.62 0 270)
 			(size 2.75 1.8)
-			(drill
+			(drill 1
 				(offset -0.475 0)
 			)
-			(layers "B.Cu" "B.Mask" "B.Paste")
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net 10 "/LCOL3")
 			(pinfunction "P0.29/3")
 			(pintype "bidirectional")
 			(uuid "fece09b2-2c53-4089-a57a-4f52085d895f")
 		)
-		(pad "5" smd oval
+		(pad "5" thru_hole oval
 			(at -7.62 -2.54 270)
 			(size 2.75 1.8)
-			(drill
+			(drill 1
 				(offset -0.475 0)
 			)
-			(layers "B.Cu" "B.Mask" "B.Paste")
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net 12 "/LCOL4")
 			(pinfunction "P0.04/4")
 			(pintype "bidirectional")
 			(uuid "a292216c-48b6-44d1-9ff9-7e891efc5ed8")
 		)
-		(pad "6" smd oval
+		(pad "6" thru_hole oval
 			(at -7.62 -5.08 270)
 			(size 2.75 1.8)
-			(drill
+			(drill 1
 				(offset -0.475 0)
 			)
-			(layers "B.Cu" "B.Mask" "B.Paste")
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net 77 "/LCOL5")
 			(pinfunction "P0.05/5")
 			(pintype "bidirectional")
 			(uuid "e03687b8-3203-4c32-8e3a-27045c56614b")
 		)
-		(pad "7" smd oval
+		(pad "7" thru_hole oval
 			(at -7.62 -7.62 270)
 			(size 2.75 1.8)
-			(drill
+			(drill 1
 				(offset -0.475 0)
 			)
-			(layers "B.Cu" "B.Mask" "B.Paste")
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net 25 "/LROW0")
 			(pinfunction "P1.11/6")
 			(pintype "bidirectional")
 			(uuid "80d972b7-24d8-4890-a7e6-da881f61455f")
 		)
-		(pad "8" smd oval
+		(pad "8" thru_hole oval
 			(at 7.62 7.62 90)
 			(size 2.75 1.8)
-			(drill
+			(drill 1
 				(offset -0.475 0)
 			)
-			(layers "B.Cu" "B.Mask" "B.Paste")
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net 39 "unconnected-(LU1-5V-Pad8)")
 			(pinfunction "5V")
 			(pintype "power_out+no_connect")
 			(uuid "f20fec3e-7366-48da-ba1d-e6778f8e331e")
 		)
-		(pad "9" smd oval
+		(pad "9" thru_hole oval
 			(at 7.62 5.08 90)
 			(size 2.75 1.8)
-			(drill
+			(drill 1
 				(offset -0.475 0)
 			)
-			(layers "B.Cu" "B.Mask" "B.Paste")
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net 1 "LGND")
 			(pinfunction "GND")
 			(pintype "power_out")
 			(uuid "c97e2b5c-387a-443e-a8da-2f13d30e4a60")
 		)
-		(pad "10" smd oval
+		(pad "10" thru_hole oval
 			(at 7.62 2.54 90)
 			(size 2.75 1.8)
-			(drill
+			(drill 1
 				(offset -0.475 0)
 			)
-			(layers "B.Cu" "B.Mask" "B.Paste")
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net 70 "unconnected-(LU1-3V3-Pad10)")
 			(pinfunction "3V3")
 			(pintype "power_out+no_connect")
 			(uuid "deee7468-bcb5-4812-b005-6ca1c09ebde9")
 		)
-		(pad "11" smd oval
+		(pad "11" thru_hole oval
 			(at 7.62 0 90)
 			(size 2.75 1.8)
-			(drill
+			(drill 1
 				(offset -0.475 0)
 			)
-			(layers "B.Cu" "B.Mask" "B.Paste")
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net 36 "unconnected-(LU1-P1.15{slash}10-Pad11)")
 			(pinfunction "P1.15/10")
 			(pintype "bidirectional")
 			(uuid "c947a4a5-da49-4016-bbff-472f05bfe8df")
 		)
-		(pad "12" smd oval
+		(pad "12" thru_hole oval
 			(at 7.62 -2.54 90)
 			(size 2.75 1.8)
-			(drill
+			(drill 1
 				(offset -0.475 0)
 			)
-			(layers "B.Cu" "B.Mask" "B.Paste")
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net 28 "/LROW3")
 			(pinfunction "P1.14/9")
 			(pintype "bidirectional")
 			(uuid "cea2add7-6b3d-4ac7-9c26-0f9b70be9c15")
 		)
-		(pad "13" smd oval
+		(pad "13" thru_hole oval
 			(at 7.62 -5.08 90)
 			(size 2.75 1.8)
-			(drill
+			(drill 1
 				(offset -0.475 0)
 			)
-			(layers "B.Cu" "B.Mask" "B.Paste")
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net 26 "/LROW1")
 			(pinfunction "P1.13/8")
 			(pintype "bidirectional")
 			(uuid "63d89688-189b-489e-9e9b-b41f6b7c28dc")
 		)
-		(pad "14" smd oval
+		(pad "14" thru_hole oval
 			(at 7.62 -7.62 90)
 			(size 2.75 1.8)
-			(drill
+			(drill 1
 				(offset -0.475 0)
 			)
-			(layers "B.Cu" "B.Mask" "B.Paste")
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net 27 "/LROW2")
 			(pinfunction "P1.12/7")
 			(pintype "bidirectional")
