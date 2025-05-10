@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 2.0,
-          "width": 2.0
+          "drill": 1.016,
+          "height": 1.397,
+          "width": 1.397
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -64,7 +64,7 @@
           "Close enough, it'll be fine."
         ],
         [
-          "hole_clearance|125500000|-31430000|957157f0-eef0-4504-b3af-9959d5cf1f3b|a17b54f3-cdd8-41b3-9a60-7b76283bda76",
+          "hole_clearance|125500000|-31430000|a17b54f3-cdd8-41b3-9a60-7b76283bda76|957157f0-eef0-4504-b3af-9959d5cf1f3b",
           "Close enough, it'll be fine."
         ]
       ],
