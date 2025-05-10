@@ -124,6 +124,18 @@
           "size_x": 2538,
           "size_y": 2077
         }
+      },
+      {
+        "name": "forager-pcb.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 1713,
+          "pos_y": 15,
+          "size_x": 1693,
+          "size_y": 2077
+        }
       }
     ]
   },
